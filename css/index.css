@@ -66,6 +66,7 @@ body::before{
 .summary .content .song-info .info{
   margin-left: 15px;
   text-align: start;
+  flex-basis: 70%;
 }
 
 .summary .content .song-info .info p{
@@ -73,7 +74,6 @@ body::before{
 }
 
 .summary .content .song-info a{
-  margin-left: 97px;
   color: #382ae1;
 }
 
